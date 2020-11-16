@@ -1,0 +1,12 @@
+---
+title: "week 7 Collab"
+author: "Nichoals Bissonnette"
+date: "11/16/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Hey Rammy lets collab! 
